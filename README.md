@@ -3,7 +3,7 @@
 
 PhotoZap is a Chrome extension designed to help you automatically select and delete photos in Google Photos with ease. With customizable settings, you can fine-tune the delay, the number of images to select, and whether or not to automatically delete the selected images.
 
-![PhotoZap Icon](./icons/icon128.png)
+![Screenshot](./images/screenshot-1.0.0.jpg)
 
 ## Features
 
@@ -28,6 +28,11 @@ To install the PhotoZap extension:
    - Open Chrome and navigate to `chrome://extensions/`.
    - Enable "Developer mode" in the top right corner.
    - Click "Load unpacked" and select the `photozap` directory.
+
+3. **Download the ZIP (Alternative):**
+   - Navigate to the [Releases](https://github.com/moorer2k/photozap/releases) section of this repository.
+   - Download the latest release ZIP file.
+   - Extract the contents and load it as an unpacked extension as described above.
 
 ## Usage
 
